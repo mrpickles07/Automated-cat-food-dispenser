@@ -13,7 +13,7 @@ A pet food dispenser that automatically feeds your pet the right amount of food 
 
 To open the settings menu, press 'MENU/OK' and then press '+' to navigate the different settings. You can set the time of day the feeder will dispense, set the actual time for the internal clock, as well as set the volume of food to be dispensed. The speaker will navigate through the different settings.
 
-| Settings: | Value 1 | Value 2 | Value 3 | Additional Feeding Time Option |
+| Settings: | Page 1 | Page 2 | Page 3 | Additional Feeding Time Option |
 | -------- | -------- | -------- | -------- | -------- |
 | Set Time | Set Hour | Set Minute | AM/PM | Plus Other Time? |
 | Set Clock | Set Hour | Set Minute | AM/PM | |

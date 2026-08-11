@@ -1,4 +1,4 @@
-# Automated cat food dispenser
+# Automated Cat Food Dispenser
 A pet food dispenser that automatically feeds your pet the right amount of food at the right time. Runs on Arduino Nano R4 or adjacent boards.
 
 * Feeds your pet the desired amount of food

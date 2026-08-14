@@ -18,3 +18,36 @@ To open the settings menu, press 'MENU/OK' and then press '+' to navigate the di
 | Set Time | Set Hour | Set Minute | AM/PM | Plus Other Time? |
 | Set Clock | Set Hour | Set Minute | AM/PM | |
 | Control Unit Weight | Set Unit | | | Plus Other Unit? |
+
+You can set add multiple times of the day for feeding by selecting the last option, which will loop back to Page 1 to create another time.
+
+---
+
+## Libraries needed
+
+* TalkiePCM
+* Arduino Audio Tools: https://github.com/pschatzmann/arduino-audio-tools
+* Arduino Audio Driver: https://github.com/pschatzmann/arduino-audio-driver
+
+---
+
+## Quick setup
+
+1. Clone this repo or download the ZIP
+2. Open Automated_Cat_Feeder.ino in Arduino IDE
+3. Select Arduino NAno R4 as your board
+4. Upload
+
+---
+
+## Building instructions
+
+---
+
+## AI usage
+
+Only used AI to help learn how to use the talkie library commands.
+
+---
+
+Built by Liam Rauh with help from Oliver Rauh

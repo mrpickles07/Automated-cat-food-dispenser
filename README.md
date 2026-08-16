@@ -50,4 +50,4 @@ Only used AI to help learn how to use the talkie library commands.
 
 ---
 
-Built by Liam Rauh with help from Oliver Rauh
+Built by Liam Rauh

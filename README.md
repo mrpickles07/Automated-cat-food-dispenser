@@ -2,7 +2,7 @@
 A pet food dispenser that automatically feeds your pet the right amount of food at the right time. Runs on Arduino Nano R4 or adjacent boards.
 
 * Feeds your pet the desired amount of food
-* Allows you to set the time of day you want it to dispense the food
+* Allows you to set multiple times of the day to dispense the food
 * Spoken audio timer set interface
 * Easily refillable lid
 * Stylish (Looks like a cat / other pet if u want)

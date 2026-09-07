@@ -15,9 +15,9 @@ To open the settings menu, press 'MENU/OK' and then press '+' to navigate the di
 
 | Settings: | Page 1 | Page 2 | Page 3 | Additional Feeding Time Option | Enter |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| Set Time | Set Hour | Set Minutes | AM/PM | Plus Other Time? | Enter |
+| Set Time | Set Hour | Set Minutes | AM/PM | Plus other time? | Enter |
 | Set Clock | Set Hour | Set Minutes | AM/PM | | Enter |
-| Control Unit Weight | Set Unit | | | Plus Other Unit? | Enter |
+| Control Unit Weight | Set Unit | | | Plus other unit? | Enter |
 | Enter | | | | |
 | Clear All | | | | |
 

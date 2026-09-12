@@ -17,7 +17,7 @@ To open the settings menu, press 'MENU/OK' and then press '+' to navigate the di
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | Set Time | Set Hour | Set Minutes | AM/PM | Plus other time? | Enter |
 | Set Clock | Set Hour | Set Minutes | AM/PM | | Enter |
-| Control Unit Weight | Set Unit | | | Plus other unit? | Enter |
+| Control Unit Weight | Set Unit | | | Edit Other Units... | Enter |
 | Enter | | | | |
 | Clear All | | | | |
 

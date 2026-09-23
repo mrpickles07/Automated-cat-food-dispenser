@@ -21,7 +21,7 @@ To open the settings menu, press 'MENU/OK' and then press '+' to navigate the di
 | Enter | | | | |
 | Clear All | | | | |
 
-You can set add multiple times of the day for feeding by selecting the last option, which will loop back to Page 1 to create another time.
+You can set add multiple times of the day for feeding by selecting the 'Plus other time' option, which will loop back to Page 1 to create another time.
 
 ---
 

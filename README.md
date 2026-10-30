@@ -1,17 +1,21 @@
 # Automated Cat Food Dispenser
-A pet food dispenser that automatically feeds your pet the right amount of food at the right time. Runs on Arduino Nano R4 or adjacent boards.
+ 
+This is a dispenser for cat food I made that dispenses a precise amount of food at a precise time every day.
+This project is used to create a healthy food dispensing schedule for your pet and to take the stress of of forgetting to feed your pet or overfeeding it. Using this food dispenser, you can create a healthy routine for your pet and let them live a healthier, happier life. I made this project because I have always had a passion for mechanical engineering and creating things to help with problems and sometimes it is hard to fit feeding all of my pets in with my schedule and I just thought that it would be so cool to combine my two favorite things mechanical engineering and designing things to solve problems and create an automated cat food dispenser.
+
+Some of the features are:
 
 * Feeds your pet the desired amount of food
 * Allows you to set multiple times of the day to dispense the food
 * Spoken audio timer set interface
-* Easily refillable lid
-* Stylish (Looks like a cat / other pet if u want)
+* Easily refillable container with see through lid
+* Easy to use
 
 ---
 
 ## What it does
 
-To open the settings menu, press 'MENU/OK' and then press '+' to navigate the different settings. Pressing 'MENU/OK' selects the current option, and pressing '+' moves to the next option. You can set the time of day the feeder will dispense, set the actual time for the internal clock, as well as set the volume of food to be dispensed. The speaker will navigate through the different settings.
+To open the settings menu, press 'MENU/OK' and then press '+' to navigate the different settings. Pressing 'MENU/OK' selects the current option, and pressing '+' moves to the next option. You can set the time of day the feeder will dispense, set the actual time for the internal clock, as well as set the amountof food to be dispensed. The speaker will navigate through the different settings.
 
 | Settings: | Page 1 | Page 2 | Page 3 | Additional Feeding Time Option | Enter |
 | -------- | -------- | -------- | -------- | -------- | -------- |

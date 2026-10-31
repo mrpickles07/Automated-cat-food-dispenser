@@ -41,8 +41,9 @@ You can set add multiple times of the day for feeding by selecting the 'Plus oth
 
 1. Clone this repository or download the ZIP
 2. Open Automated_Cat_Feeder.ino in Arduino IDE
-3. Select Arduino Nano R4 as your board
-4. Upload
+3. Download the libraries required above in the Arduino library manager or from the githubs
+4. Select Arduino Nano R4 as your board
+5. Upload
 
 ---
 

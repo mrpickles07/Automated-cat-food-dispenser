@@ -11,6 +11,8 @@ Some of the features are:
 * Easily refillable container with see through lid
 * Easy to use
 
+<img width="1760" height="1123" alt="Screenshot 2026-10-28 at 10 32 03 PM" src="https://github.com/user-attachments/assets/8a6639c4-46b9-4956-aeee-8d5c06fd442a" />
+
 ---
 
 ## What it does
@@ -60,4 +62,3 @@ Only used AI to help learn how to use the talkie library commands.
 ---
 
 Built by Liam Rauh
-<img width="1760" height="1123" alt="Screenshot 2026-10-28 at 10 32 03 PM" src="https://github.com/user-attachments/assets/8a6639c4-46b9-4956-aeee-8d5c06fd442a" />

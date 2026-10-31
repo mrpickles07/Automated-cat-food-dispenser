@@ -47,7 +47,7 @@ You can set add multiple times of the day for feeding by selecting the 'Plus oth
 ---
 
 ## Building instructions
-
+https://docs.google.com/document/d/176qaOSZDa-XyRVBPFdXL7ojl0XJfHfxA3bwoHv8ah60/edit?usp=sharing
 ---
 
 ## AI usage

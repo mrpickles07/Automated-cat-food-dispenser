@@ -13,6 +13,13 @@ Some of the features are:
 
 <img width="1760" height="1123" alt="Screenshot 2026-10-28 at 10 32 03 PM" src="https://github.com/user-attachments/assets/8a6639c4-46b9-4956-aeee-8d5c06fd442a" />
 
+Youtube Demo: https://www.youtube.com/watch?v=JKsLb1snryk 
+
+<iframe width="1801" height="1013" src="https://www.youtube.com/embed/JKsLb1snryk" title="Automated Cat Food Dispenser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img width="3024" height="4032" alt="IMG_3581" src="https://github.com/user-attachments/assets/e18bfaaa-c447-4342-af9e-5747a84a9a39" />
+<img width="3024" height="4032" alt="IMG_3582" src="https://github.com/user-attachments/assets/e5c3588e-5b03-4d9e-a8ec-cfa3adb9654f" />
+
 ---
 
 ## What it does
